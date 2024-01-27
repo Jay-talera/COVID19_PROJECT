@@ -63,4 +63,12 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
    <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoColor=orange" alt="Git Badge"/>
   </a>
+    </a>
+   <a href="https://www.microsoft.com/en-in/sql-server/sql-server-2022/">
+    <img src="https://img.shields.io/badge/MS%20SQL%20SERVER-blue?style=flat&logo=microsoftsqlserver&logoColor=yellow" alt="MS SQL SERVER BADGE"/>
+  </a>
+    </a>
+   <a href="https://www.microsoft.com/en-in/microsoft-365/excel/">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-blue?style=flat&logo=microsoftexcel&logoColor=yellow" alt="MS EXCEL BADGE"/>
+  </a>
 </div>
